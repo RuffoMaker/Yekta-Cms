@@ -35,4 +35,4 @@ $config['message_headline_size'] = 56;
 | Message text
 |--------------------------------------------------------------------------
 */
-$config['message_text'] = "This copy of FusionCMS has been terminated due to illegal usage. If you actually own a legit copy, please contact us at <a href=\"http://fusion.raxezdev.com/\" style=\"text-decoration:none;color:white;\">fusion.raxezdev.com</a> test test";
+$config['message_text'] = "Gracias a RuffoMaker por eliminar el texto de posees una copia ilegal!";

@@ -1,3 +1,3 @@
 <?php
 
-$config['language'] = "Persian";
+$config['language'] = "español";
